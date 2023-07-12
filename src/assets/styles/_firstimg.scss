@@ -1,0 +1,26 @@
+.first{
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 1000px;
+    margin-left: 5%;
+    .text{
+        display:flex;
+        align-items: center;
+        flex-direction: column;
+        height: 400px;
+        width: 400px;
+        font-size: 40px;
+    }
+    .image{
+        height: 550px;
+        width: 550px;
+        margin-left: 5%;
+        border-radius: 25px;
+        img{
+            height: 550px;
+            width: 550px;
+            border-radius: 25px;
+        }
+    }
+}

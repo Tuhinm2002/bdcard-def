@@ -1,0 +1,25 @@
+@import './firstimg';
+@import './secondimg';
+@import './thirdimg';
+@import './fourthimg';
+@import './fifthimg';
+@import './sixthimg';
+@import './seventhimg';
+@import './eigthimg';
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
